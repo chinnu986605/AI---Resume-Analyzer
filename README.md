@@ -21,5 +21,10 @@ AI-powered web application that analyzes resumes, extracts key skills, and gener
 - Add AI-based skill extraction
 - Support more file formats
 - Improve UI design
+
 ## Author
 Siri Vennela
+
+## Screenshot 
+<img width="635" height="627" alt="image" src="https://github.com/user-attachments/assets/1ec417c0-b7e8-4ffc-8c38-e49c886e0fb8" />
+
