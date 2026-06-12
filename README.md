@@ -1,7 +1,6 @@
 # AI Resume Analyzer
 
-This project analyzes resumes and extracts skills using Python. It compares user skills with required skills and provides a score along with missing skills.
-
+AI-powered web application that analyzes resumes, extracts key skills, and generates a match score to identify skill gaps.
 ## Features
 - Resume parsing
 - Skill extraction
@@ -17,3 +16,10 @@ This project analyzes resumes and extracts skills using Python. It compares user
 1. Install dependencies
 2. Run app.py
 3. Upload resume
+
+## Future Improvements
+- Add AI-based skill extraction
+- Support more file formats
+- Improve UI design
+## Author
+Siri Vennela
