@@ -28,5 +28,4 @@ Siri Vennela
 ## Screenshot 
 <img width="635" height="627" alt="image" src="https://github.com/user-attachments/assets/1ec417c0-b7e8-4ffc-8c38-e49c886e0fb8" />
 
-![App Screenshot](https://raw.githubusercontent.com/chinnu986605/AI---Resume-Analyzer/main/screenshot.png)
 
